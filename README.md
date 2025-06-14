@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/mVhLDY4g/20250614-235225.jpg" alt="Datagram Logo" border="0">
+
 # Datagram Installation for Linux
 
 This repository provides a simple guide to install, run, and remove the Datagram CLI tool on Linux systems.
@@ -49,7 +51,7 @@ sudo pkill -f "datagram-cli run" 2>/dev/null; \
 
 ---
 
-## ðŸŽ Claim the **Early Alpha Tester Role**
+## ðŸŽ Claim the Early Alpha Tester Role
 
 After successfully installing and running the CLI, go to this form and submit your participation:
 
@@ -66,9 +68,3 @@ When filling out the form, use these social links:
 ## ðŸŒ Official Website
 
 [http://datagram.network/](http://datagram.network/)
-
----
-
-## ðŸ–¼ Logo
-
-![Datagram Logo](https://pbs.twimg.com/media/GMrIMhKXwAAY2zI?format=jpg&name=large)
