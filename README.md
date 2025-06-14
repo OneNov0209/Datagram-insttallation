@@ -4,12 +4,12 @@
 
 This repository provides a simple guide to install, run, and remove the Datagram CLI tool on Linux systems.
 
-> âœ… **Register first using this referral link:**  
+> **Register first using this referral link:**  
 > https://dashboard.datagram.network?ref=580071261
 
 ---
 
-## ðŸš€ Installation Instructions
+## Installation Instructions
 
 ### 1. Copy your API Key
 
@@ -38,7 +38,7 @@ tail -f datagram.log
 
 ---
 
-## âŒ Uninstall / Remove
+## Uninstall / Remove
 
 If you want to stop and remove the installation:
 
@@ -51,11 +51,11 @@ sudo pkill -f "datagram-cli run" 2>/dev/null; \
 
 ---
 
-## ðŸŽ Claim the Early Alpha Tester Role
+## Claim the Early Alpha Tester Role
 
 After successfully installing and running the CLI, go to this form and submit your participation:
 
-ðŸ‘‰ **[Submit the Form](https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform)**
+**[Submit the Form](https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform)**
 
 When filling out the form, use these social links:
 
@@ -65,6 +65,6 @@ When filling out the form, use these social links:
 
 ---
 
-## ðŸŒ Official Website
+## Official Website
 
 [http://datagram.network/](http://datagram.network/)
